@@ -35,11 +35,11 @@ Only the columns showing the Mean and Standard Deviation values are extracted, a
 ###The following variables are reported in the tidy data set.
 
 
--"Subject" (1 through 30)
+- "Subject" (1 through 30)
 
--"Activity" (1 through 6 for each subject)
+- "Activity" (1 through 6 for each subject)
 
--Mean and Std Dev of X, Y and Z components of the timeBodyAccelerometer:
+- Mean and Std Dev of X, Y and Z components of the timeBodyAccelerometer:
 
 "timeBodyAccelerometer-mean()-X" 
 
@@ -53,7 +53,7 @@ Only the columns showing the Mean and Standard Deviation values are extracted, a
 
 "timeBodyAccelerometer-std()-Z" 
 
--Mean and Std Dev of X, Y and Z components of the timeGravityAccelerometer:
+- Mean and Std Dev of X, Y and Z components of the timeGravityAccelerometer:
 
 "timeGravityAccelerometer-mean()-X" 
 
@@ -67,7 +67,7 @@ Only the columns showing the Mean and Standard Deviation values are extracted, a
 
 "timeGravityAccelerometer-std()-Z" 
 
--Mean and Std Dev of X, Y and Z components of the timeGravityAccelerometerJerk:
+- Mean and Std Dev of X, Y and Z components of the timeGravityAccelerometerJerk:
 
 "timeBodyAccelerometerJerk-mean()-X" 
 
@@ -81,7 +81,7 @@ Only the columns showing the Mean and Standard Deviation values are extracted, a
 
 "timeBodyAccelerometerJerk-std()-Z" 
 
--Mean and Std Dev of X, Y and Z components of the timeBodyGyroscope:
+- Mean and Std Dev of X, Y and Z components of the timeBodyGyroscope:
 
 "timeBodyGyroscope-mean()-X" 
 
@@ -95,7 +95,7 @@ Only the columns showing the Mean and Standard Deviation values are extracted, a
 
 "timeBodyGyroscope-std()-Z" 
 
--Mean and Std Dev of X, Y and Z components of the timeBodyGyroscopeJerk:
+- Mean and Std Dev of X, Y and Z components of the timeBodyGyroscopeJerk:
 
 "timeBodyGyroscopeJerk-mean()-X" 
 
@@ -109,7 +109,7 @@ Only the columns showing the Mean and Standard Deviation values are extracted, a
 
 "timeBodyGyroscopeJerk-std()-Z" 
 
--Mean and Std Dev of the magnitudes of the time domain variables above:
+- Mean and Std Dev of the magnitudes of the time domain variables above:
 
 "timeBodyAccelerometerMagnitude-mean()" 
 
@@ -131,7 +131,7 @@ Only the columns showing the Mean and Standard Deviation values are extracted, a
 
 "timeBodyGyroscopeJerkMagnitude-std()" 
 
--Mean and Std Dev of X, Y and Z components of the frequencyBodyAccelerometer:
+- Mean and Std Dev of X, Y and Z components of the frequencyBodyAccelerometer:
 
 "frequencyBodyAccelerometer-mean()-X" 
 
@@ -145,7 +145,7 @@ Only the columns showing the Mean and Standard Deviation values are extracted, a
 
 "frequencyBodyAccelerometer-std()-Z" 
 
--Mean and Std Dev of X, Y and Z components of the frequencyBodyAccelerometerJerk:
+- Mean and Std Dev of X, Y and Z components of the frequencyBodyAccelerometerJerk:
 
 "frequencyBodyAccelerometerJerk-mean()-X" 
 
@@ -159,7 +159,7 @@ Only the columns showing the Mean and Standard Deviation values are extracted, a
 
 "frequencyBodyAccelerometerJerk-std()-Z" 
 
--Mean and Std Dev of X, Y and Z components of the frequencyBodyGyroscope:
+- Mean and Std Dev of X, Y and Z components of the frequencyBodyGyroscope:
 
 "frequencyBodyGyroscope-mean()-X" 
 
@@ -173,7 +173,7 @@ Only the columns showing the Mean and Standard Deviation values are extracted, a
 
 "frequencyBodyGyroscope-std()-Z" 
 
--Mean and Std Dev of the magnitudes of the frequency domain variables above:
+- Mean and Std Dev of the magnitudes of the frequency domain variables above:
 
 "frequencyBodyAccelerometerMagnitude-mean()" 
 
