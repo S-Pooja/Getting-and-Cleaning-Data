@@ -16,7 +16,7 @@ For each record it is provided:
 - An identifier of the subject who carried out the experiment.
 - Its activity label.
 - A 66-feature vector with average and standard deviation of the X, Y, Z, components and magnitude of the time and frequency domain variables as captured from the smartphone data. 
-==================================================================
+
 
 
 
