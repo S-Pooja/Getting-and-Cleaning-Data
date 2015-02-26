@@ -36,99 +36,159 @@ Only the columns showing the Mean and Standard Deviation values are extracted, a
 
 
 -"Subject" (1 through 30)
+
 -"Activity" (1 through 6 for each subject)
 
 -Mean and Std Dev of X, Y and Z components of the timeBodyAccelerometer:
 
 "timeBodyAccelerometer-mean()-X" 
+
 "timeBodyAccelerometer-mean()-Y" 
+
 "timeBodyAccelerometer-mean()-Z" 
+
 "timeBodyAccelerometer-std()-X" 
+
 "timeBodyAccelerometer-std()-Y" 
+
 "timeBodyAccelerometer-std()-Z" 
 
 -Mean and Std Dev of X, Y and Z components of the timeGravityAccelerometer:
 
 "timeGravityAccelerometer-mean()-X" 
+
 "timeGravityAccelerometer-mean()-Y" 
+
 "timeGravityAccelerometer-mean()-Z" 
+
 "timeGravityAccelerometer-std()-X" 
+
 "timeGravityAccelerometer-std()-Y" 
+
 "timeGravityAccelerometer-std()-Z" 
 
 -Mean and Std Dev of X, Y and Z components of the timeGravityAccelerometerJerk:
 
 "timeBodyAccelerometerJerk-mean()-X" 
+
 "timeBodyAccelerometerJerk-mean()-Y" 
+
 "timeBodyAccelerometerJerk-mean()-Z" 
+
 "timeBodyAccelerometerJerk-std()-X" 
+
 "timeBodyAccelerometerJerk-std()-Y" 
+
 "timeBodyAccelerometerJerk-std()-Z" 
 
 -Mean and Std Dev of X, Y and Z components of the timeBodyGyroscope:
 
 "timeBodyGyroscope-mean()-X" 
+
 "timeBodyGyroscope-mean()-Y" 
+
 "timeBodyGyroscope-mean()-Z" 
+
 "timeBodyGyroscope-std()-X" 
+
 "timeBodyGyroscope-std()-Y" 
+
 "timeBodyGyroscope-std()-Z" 
 
 -Mean and Std Dev of X, Y and Z components of the timeBodyGyroscopeJerk:
 
 "timeBodyGyroscopeJerk-mean()-X" 
+
 "timeBodyGyroscopeJerk-mean()-Y" 
+
 "timeBodyGyroscopeJerk-mean()-Z" 
+
 "timeBodyGyroscopeJerk-std()-X" 
+
 "timeBodyGyroscopeJerk-std()-Y" 
+
 "timeBodyGyroscopeJerk-std()-Z" 
 
 -Mean and Std Dev of the magnitudes of the time domain variables above:
 
 "timeBodyAccelerometerMagnitude-mean()" 
+
 "timeBodyAccelerometerMagnitude-std()" 
-"timeGravityAccelerometerMagnitude-mean()" "timeGravityAccelerometerMagnitude-std()" "timeBodyAccelerometerJerkMagnitude-mean()" "timeBodyAccelerometerJerkMagnitude-std()" 
+
+"timeGravityAccelerometerMagnitude-mean()" 
+
+"timeGravityAccelerometerMagnitude-std()" 
+
+"timeBodyAccelerometerJerkMagnitude-mean()" 
+
+"timeBodyAccelerometerJerkMagnitude-std()" 
+
 "timeBodyGyroscopeMagnitude-mean()" 
+
 "timeBodyGyroscopeMagnitude-std()" 
+
 "timeBodyGyroscopeJerkMagnitude-mean()" 
+
 "timeBodyGyroscopeJerkMagnitude-std()" 
 
 -Mean and Std Dev of X, Y and Z components of the frequencyBodyAccelerometer:
 
 "frequencyBodyAccelerometer-mean()-X" 
+
 "frequencyBodyAccelerometer-mean()-Y" 
+
 "frequencyBodyAccelerometer-mean()-Z" 
+
 "frequencyBodyAccelerometer-std()-X" 
+
 "frequencyBodyAccelerometer-std()-Y" 
+
 "frequencyBodyAccelerometer-std()-Z" 
 
 -Mean and Std Dev of X, Y and Z components of the frequencyBodyAccelerometerJerk:
 
 "frequencyBodyAccelerometerJerk-mean()-X" 
+
 "frequencyBodyAccelerometerJerk-mean()-Y" 
+
 "frequencyBodyAccelerometerJerk-mean()-Z" 
+
 "frequencyBodyAccelerometerJerk-std()-X" 
+
 "frequencyBodyAccelerometerJerk-std()-Y" 
+
 "frequencyBodyAccelerometerJerk-std()-Z" 
 
 -Mean and Std Dev of X, Y and Z components of the frequencyBodyGyroscope:
 
 "frequencyBodyGyroscope-mean()-X" 
+
 "frequencyBodyGyroscope-mean()-Y" 
+
 "frequencyBodyGyroscope-mean()-Z" 
+
 "frequencyBodyGyroscope-std()-X" 
+
 "frequencyBodyGyroscope-std()-Y" 
+
 "frequencyBodyGyroscope-std()-Z" 
 
 -Mean and Std Dev of the magnitudes of the frequency domain variables above:
 
 "frequencyBodyAccelerometerMagnitude-mean()" 
+
 "frequencyBodyAccelerometerMagnitude-std()" 
+
 "frequencyBodyAccelerometerJerkMagnitude-mean()" 
+
 "frequencyBodyAccelerometerJerkMagnitude-std()" 
+
 "frequencyBodyGyroscopeMagnitude-mean()" 
+
 "frequencyBodyGyroscopeMagnitude-std()" 
+
 "frequencyBodyGyroscopeJerkMagnitude-mean()" 
+
 "frequencyBodyGyroscopeJerkMagnitude-std()"
 
 
