@@ -2,7 +2,7 @@
 # Study design
 
 
-### Tidy Dataset from the Human Activity Recognition Using Smartphones Data
+## Tidy Dataset from the Human Activity Recognition Using Smartphones Data
 
 - This script creates a tidy data file using the raw Human Activity Recognition Using Smartphones Dataset from the initial experiments were performed by Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, and Luca Oneto at Smartlab - Non Linear Complex Systems Laboratory, DITEN - Universit‡ degli Studi di Genova, in Via Opera Pia 11A, I-16145, Genoa, Italy.
 
@@ -21,14 +21,14 @@
 - The gravitational force is assumed to have only low frequency components, therefore a filter with 0.3 Hz cutoff frequency was used. From each window, a vector of features was obtained by calculating variables from the time and frequency domain. 
 
 
-### Steps to tidy data
+## Steps to tidy data
 
 
-- Following steps are performed to arrive at the tidy data from the original raw data set:
+### Following steps are performed to arrive at the tidy data from the original raw data set:
 
--- Download the file
+- Download the file
 
--- Unzip the file and store the file names as "files" 
+- Unzip the file and store the file names as "files" 
 
 - Read the training data from 21 unique subjects on 6 basic activities via phone accelerometer and gyroscope measurements.
 
@@ -38,7 +38,7 @@
 
 -         Measurements  (Data=X_train           Dim=7352 by 561   Content=smartphone measurements on 561 time and frequency domain variables from accelerometer and gyroscope)
 
--Read the test data from 9 unique subjects on 6 basic activities via phone accelerometer and gyroscope measurements.
+- Read the test data from 9 unique subjects on 6 basic activities via phone accelerometer and gyroscope measurements.
 
 -         Subjects      (Data=Subject_test      Dim=2947 by 1     Content=Subject ID), 
 
